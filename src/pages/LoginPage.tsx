@@ -91,9 +91,11 @@ export function LoginPage() {
           </p>
 
           <div className="mt-6 p-4 bg-blue-50 rounded-lg text-sm text-gray-600">
-            <p className="font-semibold text-gray-700 mb-2">Demo Credentials:</p>
-            <p className="text-gray-600">Email: demo@example.com</p>
-            <p className="text-gray-600">Password: demo123456</p>
+            <p className="font-semibold text-gray-700 mb-2">First Time User?</p>
+            <p className="text-gray-600 mb-2">Create a test account via registration to get started!</p>
+            <p className="text-xs text-gray-500">Example credentials to use:</p>
+            <p className="text-xs text-gray-600">Email: test@example.com</p>
+            <p className="text-xs text-gray-600">Password: test123456</p>
           </div>
         </div>
       </div>
